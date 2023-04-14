@@ -10,6 +10,7 @@ import com.atguigu.spring.service.UserService;
  */
 public class UserController {
 
+//1
     private UserService userService;
 
     public UserService getUserService() {
